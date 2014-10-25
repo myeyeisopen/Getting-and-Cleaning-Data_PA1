@@ -1,7 +1,7 @@
-###"subject":Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+#"subject":Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-###"Activity":the activity trace by wearing device ex. WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING.
+#"Activity":the activity trace by wearing device ex. WALKING,WALKING_UPSTAIRS,WALKING_DOWNSTAIRS,SITTING,STANDING,LAYING.
 
-###"mean(Mean)":the mean of the motion signal.  
+#"mean(Mean)":the mean of the motion signal.  
 
-###"mean(SD)"the mean of standard deviation signal.
+#"mean(SD)"the mean of standard deviation signal.
